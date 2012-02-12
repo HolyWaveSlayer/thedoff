@@ -1,0 +1,19 @@
+body {
+	background-color:black;
+	font-family:Helvetica;
+	color:blue;
+	text-align:center;
+}
+img {
+height:25%;
+}
+.small{
+height:10%;
+}
+.medium{
+height:15%;
+}
+.large{
+height:20%;
+}
+

@@ -1,0 +1,1 @@
+alert('I am not spam! press ok or else ;)');
